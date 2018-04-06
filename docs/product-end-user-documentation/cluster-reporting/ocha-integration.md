@@ -8,6 +8,7 @@ High level we'll be integrating with [OCHA](https://www.unocha.org/) systems to 
   * Cluster objectives and indicators 
   * Cluster activities and indicators
   * Partners associated with the response plan - are available under `organizations` key in the [response](https://api.hpc.tools/v2/public/project/47561).
+  * PLUS locations and disaggregations (where defined)
 * Partner Projects and Partner activities \(OPS\):
   * Projects and their indicators
   * Activities and their indicators
