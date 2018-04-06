@@ -1,6 +1,6 @@
 # Planning your action as a Partner
 
-In this section \("My Planned Action" in the left hand navigation\) of the interface is where the partner can view and setup their planned actions to support the work of the cluster. A checkmark will indicate whether a project is from OCHA. The IMO does not see this section.
+In this section \("My Planned Action" in the left hand navigation\) of the interface is where the partner can view and setup their planned actions to support the work of the cluster. A checkmark will indicate whether a project is from OCHA. The IMO does not see this section - comment: the IMO will be able to see this section since s/he will need to act on behalf of a partner.
 
 {% hint style="info" %}
 This section is only visible to a partner user who is logged in.
